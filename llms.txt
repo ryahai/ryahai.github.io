@@ -1,0 +1,10 @@
+# Sound It Out
+
+> Printable PDF worksheets for children aged 3 to 8 (preschool, kindergarten and first grade): phonics and decodable reading, sight words, alphabet tracing, numbers, addition and subtraction. Every pack comes in full colour and in black and white, in US Letter and A4. Free sample pages can be downloaded without signing up.
+
+## Start here
+- [Sound It Out](https://ryahai.github.io/sound-it-out/): all printable packs, by category
+- [Free worksheets](https://ryahai.github.io/sound-it-out/free-printable-worksheets/): free sample pages from every pack
+- [Free reading app](https://ryahai.github.io/sound-it-out/app/): reading games where every word can be sounded out
+- [Full list of pages](https://ryahai.github.io/sound-it-out/llms.txt): every pack, free page and category with one line each
+- [Help](https://ryahai.github.io/sound-it-out/help/): downloading and printing

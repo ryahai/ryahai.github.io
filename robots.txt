@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /sound-it-out/review/
+
+Sitemap: https://ryahai.github.io/sound-it-out/sitemap.xml
